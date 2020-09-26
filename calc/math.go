@@ -1,6 +1,6 @@
-package math
+package calc
 
-//Função para somar dois valores
+//Add - Função para somar dois valores
 func Add(i, j int) int {
 	return i + j
 }
